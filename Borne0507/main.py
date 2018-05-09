@@ -2,9 +2,9 @@
 from modules.processor import Processor
 
 # path
-source_folder= "/Users/zhangyuan/Documents/Workspace/StageCiteosWorkspace/Borne0507/source_data/"
-result_folder= "/Users/zhangyuan/Documents/Workspace/StageCiteosWorkspace/Borne0507/result_data/"
-source_file = "Borne SBM-21SMO-043"
+source_folder= "/Workspace/Borne0507/source_data/"
+result_folder= "/Workspace/Borne0507/result_data/"
+source_file = "Example"
 
 processor = Processor()
 
