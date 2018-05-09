@@ -1,0 +1,4421 @@
+Example
+2017-07-01 06:17:19
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-01T04:17:16.925Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-01 06:17:20
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-01T04:17:16.925Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-01 16:08:48
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-01T14:08:44.165Z
+2017-07-01 16:08:49
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-01T14:08:44.165Z
+2017-07-01 16:09:47
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-01T14:09:34.204Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-01 16:09:48
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-01T14:09:34.204Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-02 00:08:04
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-01T22:07:59.792Z
+2017-07-02 00:08:05
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-01T22:07:59.792Z
+2017-07-02 00:09:03
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-01T22:08:30.070Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-02 00:09:04
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-01T22:08:30.070Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-02 07:02:11
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-02T05:02:06.979Z
+2017-07-02 07:02:11
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-02T05:02:06.979Z
+2017-07-02 07:03:27
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-02T05:03:14.137Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-02 07:03:28
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-02T05:03:14.137Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-02 17:58:17
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-02T15:58:11.843Z
+2017-07-02 17:58:18
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-02T15:58:11.843Z
+2017-07-02 17:59:18
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-02T15:59:01.643Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-02 17:59:19
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-02T15:59:01.643Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-03 09:00:21
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-03T07:00:15.102Z
+2017-07-03 09:00:22
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-03T07:00:15.102Z
+2017-07-03 09:01:48
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-03T07:01:33.122Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-03 09:01:49
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-03T07:01:33.122Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-03 14:07:19
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-03T12:07:12.270Z
+2017-07-03 14:07:20
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-03T12:07:12.270Z
+2017-07-03 14:08:19
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-03T12:07:50.905Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-03 14:08:20
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-03T12:07:50.905Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-03 18:18:01
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-03T16:17:53.879Z
+2017-07-03 18:18:02
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-03T16:17:53.879Z
+2017-07-03 18:19:01
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-03T16:18:23.360Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-03 18:19:02
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-03T16:18:23.360Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 06:17:25
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T04:17:22.955Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 06:17:26
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T04:17:22.955Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 07:16:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T05:16:46.490Z
+2017-07-04 07:16:50
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T05:16:46.490Z
+2017-07-04 07:17:48
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T05:17:45.511Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 07:17:49
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T05:17:45.511Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 07:18:18
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T05:18:16.296Z
+2017-07-04 07:18:19
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T05:18:16.296Z
+2017-07-04 09:32:25
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T07:32:21.627Z
+2017-07-04 09:32:26
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T07:32:21.627Z
+2017-07-04 09:49:32
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T07:49:22.416Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 09:49:33
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T07:49:22.416Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 12:25:33
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T10:25:29.992Z
+2017-07-04 12:25:33
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T10:25:29.992Z
+2017-07-04 12:26:33
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T10:26:04.752Z
+2017-07-04 12:26:33
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T10:26:04.752Z
+2017-07-04 13:06:57
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T11:06:48.089Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 13:06:57
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T11:06:48.089Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 17:57:26
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T15:57:21.803Z
+2017-07-04 17:57:27
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T15:57:21.803Z
+2017-07-04 17:58:25
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T15:57:53.291Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 17:58:26
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T15:57:53.291Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 18:23:57
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T16:23:53.303Z
+2017-07-04 18:23:58
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T16:23:53.303Z
+2017-07-04 18:25:08
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T16:24:40.673Z
+2017-07-04 18:25:09
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T16:24:40.673Z
+2017-07-04 18:39:43
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T16:39:37.122Z
+2017-07-04 18:39:44
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-04T16:39:37.122Z
+2017-07-04 18:41:22
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T16:41:09.866Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-04 18:41:23
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-04T16:41:09.866Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-05 11:54:34
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-05T09:54:28.157Z
+2017-07-05 11:54:35
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-05T09:54:28.157Z
+2017-07-05 11:55:33
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-05T09:55:22.640Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-05 11:55:34
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-05T09:55:22.640Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 06:17:31
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T04:17:29.060Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 06:17:32
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T04:17:29.060Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 09:29:45
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T07:29:43.668Z
+2017-07-06 09:29:46
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T07:29:43.668Z
+2017-07-06 09:33:14
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T07:32:45.879Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 09:33:15
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T07:32:45.879Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 10:15:20
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T08:15:17.449Z
+2017-07-06 10:15:21
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T08:15:17.449Z
+2017-07-06 10:16:43
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T08:16:34.768Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 10:16:44
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T08:16:34.768Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 12:54:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T10:54:46.434Z
+2017-07-06 12:54:50
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T10:54:46.434Z
+2017-07-06 12:55:49
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T10:55:20.539Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 12:55:50
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T10:55:20.539Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 12:56:18
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T10:56:15.730Z
+2017-07-06 12:56:19
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T10:56:15.730Z
+2017-07-06 12:57:19
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T10:56:53.293Z
+2017-07-06 12:57:20
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T10:56:53.293Z
+2017-07-06 13:04:27
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:04:06.121Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:04:28
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:04:06.121Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:32:59
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:32:56.497Z
+2017-07-06 13:33:00
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:32:56.497Z
+2017-07-06 13:34:00
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:33:28.069Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:34:00
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:33:28.069Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:43:38
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:43:35.006Z
+2017-07-06 13:43:38
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:43:35.006Z
+2017-07-06 13:44:38
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:44:17.125Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:44:39
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:44:17.125Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:45:09
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:45:05.365Z
+2017-07-06 13:45:09
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:45:05.365Z
+2017-07-06 13:46:48
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:46:43.321Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:46:48
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:46:43.321Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:47:30
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:47:26.981Z
+2017-07-06 13:47:31
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:47:26.981Z
+2017-07-06 13:48:39
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:48:24.396Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:48:39
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:48:24.396Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:49:59
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:49:55.808Z
+2017-07-06 13:50:00
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:49:55.808Z
+2017-07-06 13:51:57
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:51:29.859Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:51:58
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T11:51:29.859Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 13:58:41
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:58:37.941Z
+2017-07-06 13:58:42
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:58:37.941Z
+2017-07-06 13:59:41
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:59:13.541Z
+2017-07-06 13:59:42
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T11:59:13.541Z
+2017-07-06 14:01:28
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:01:17.201Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:01:28
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:01:26.865Z
+2017-07-06 14:01:29
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:01:26.865Z
+2017-07-06 14:02:46
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:02:34.504Z
+2017-07-06 14:02:47
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:02:34.504Z
+2017-07-06 14:04:17
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:03:51.781Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:04:18
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:03:51.781Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:04:27
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:04:23.468Z
+2017-07-06 14:04:28
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:04:23.468Z
+2017-07-06 14:05:31
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:05:22.171Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:05:32
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:05:30.831Z
+2017-07-06 14:05:33
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:05:30.831Z
+2017-07-06 14:06:38
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:06:29.945Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:06:39
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:06:29.945Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:06:41
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:06:39.582Z
+2017-07-06 14:06:42
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:06:39.582Z
+2017-07-06 14:07:44
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:07:28.186Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:07:45
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:07:43.446Z
+2017-07-06 14:07:46
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:07:43.446Z
+2017-07-06 14:10:23
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:10:02.769Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:10:24
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:10:02.769Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:11:09
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:11:06.241Z
+2017-07-06 14:11:10
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:11:06.241Z
+2017-07-06 14:13:09
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:13:03.150Z
+2017-07-06 14:13:10
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:13:03.150Z
+2017-07-06 14:14:22
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:14:10.096Z
+2017-07-06 14:14:23
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:14:10.096Z
+2017-07-06 14:15:37
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:15:11.930Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:15:38
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:15:11.930Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:17:06
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:17:02.572Z
+2017-07-06 14:17:06
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:17:02.572Z
+2017-07-06 14:18:06
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:17:56.090Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:18:07
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:17:56.090Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:19:16
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:19:13.550Z
+2017-07-06 14:19:17
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:19:13.550Z
+2017-07-06 14:20:17
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:19:56.190Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:20:18
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:19:56.190Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:21:59
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:21:56.381Z
+2017-07-06 14:22:00
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:21:56.381Z
+2017-07-06 14:23:10
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:23:00.968Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:23:11
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:23:00.968Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:25:24
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:25:21.200Z
+2017-07-06 14:25:25
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:25:21.200Z
+2017-07-06 14:26:45
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:26:32.103Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:26:46
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:26:32.103Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:26:48
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:26:46.600Z
+2017-07-06 14:26:49
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:26:46.600Z
+2017-07-06 14:27:50
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:27:33.931Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:27:51
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:27:33.931Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:30:00
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:29:56.785Z
+2017-07-06 14:30:00
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:29:56.785Z
+2017-07-06 14:31:00
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:30:39.435Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:31:01
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:30:39.435Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:31:17
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:31:14.919Z
+2017-07-06 14:31:18
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:31:14.919Z
+2017-07-06 14:32:18
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:32:12.185Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:32:19
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:32:12.185Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:34:02
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:33:58.763Z
+2017-07-06 14:34:03
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:33:58.763Z
+2017-07-06 14:35:07
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:34:46.762Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:35:08
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:34:46.762Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:40:05
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:40:01.536Z
+2017-07-06 14:40:06
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:40:01.536Z
+2017-07-06 14:41:18
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:40:57.740Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:41:19
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:40:57.740Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:42:28
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:42:24.790Z
+2017-07-06 14:42:29
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:42:24.790Z
+2017-07-06 14:45:52
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:45:34.176Z
+2017-07-06 14:45:53
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:45:34.176Z
+2017-07-06 14:46:54
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:46:37.776Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:46:55
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:46:37.776Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:47:23
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:47:20.270Z
+2017-07-06 14:47:24
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:47:20.270Z
+2017-07-06 14:48:36
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:48:10.515Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:48:37
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:48:10.515Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:48:39
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:48:37.084Z
+2017-07-06 14:48:39
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:48:37.084Z
+2017-07-06 14:50:01
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:49:55.199Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:50:02
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:49:55.199Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:55:51
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:55:47.361Z
+2017-07-06 14:55:51
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:55:47.361Z
+2017-07-06 14:57:26
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:56:56.020Z
+2017-07-06 14:57:27
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T12:56:56.020Z
+2017-07-06 14:58:28
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:57:57.849Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 14:58:29
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T12:57:57.849Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:00:18
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:00:14.607Z
+2017-07-06 15:00:19
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:00:14.607Z
+2017-07-06 15:01:36
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:01:02.468Z
+2017-07-06 15:01:37
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:01:02.468Z
+2017-07-06 15:03:13
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:03:02.433Z
+2017-07-06 15:03:13
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:03:02.433Z
+2017-07-06 15:04:14
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:04:08.786Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:04:15
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:04:08.786Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:05:02
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:04:59.114Z
+2017-07-06 15:05:03
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:04:59.114Z
+2017-07-06 15:06:24
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:06:07.566Z
+2017-07-06 15:06:25
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:06:07.566Z
+2017-07-06 15:07:41
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:07:36.727Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:07:42
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:07:36.727Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:07:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:07:46.800Z
+2017-07-06 15:07:50
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:07:46.800Z
+2017-07-06 15:08:56
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:08:47.001Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:08:56
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:08:47.001Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:10:01
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:09:58.103Z
+2017-07-06 15:10:02
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:09:58.103Z
+2017-07-06 15:11:36
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:11:21.556Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:11:37
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:11:21.556Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:20:57
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:20:52.931Z
+2017-07-06 15:20:58
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:20:52.931Z
+2017-07-06 15:21:56
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:21:39.710Z
+2017-07-06 15:21:57
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:21:39.710Z
+2017-07-06 15:24:40
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:24:36.049Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:24:41
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:24:36.049Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:32:27
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:32:23.881Z
+2017-07-06 15:32:28
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:32:23.881Z
+2017-07-06 15:33:28
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:33:13.055Z
+2017-07-06 15:33:29
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:33:13.055Z
+2017-07-06 15:35:03
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:34:32.237Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:35:04
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:34:32.237Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:35:10
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:35:07.409Z
+2017-07-06 15:35:11
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:35:07.409Z
+2017-07-06 15:36:12
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:36:04.898Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:36:12
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:36:04.898Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:37:59
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:37:55.888Z
+2017-07-06 15:38:00
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:37:55.888Z
+2017-07-06 15:39:49
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:39:41.193Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:39:49
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:39:41.193Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:40:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:40:46.042Z
+2017-07-06 15:40:50
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:40:46.042Z
+2017-07-06 15:41:49
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:41:44.793Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:41:50
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:41:44.793Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:43:05
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:43:01.507Z
+2017-07-06 15:43:06
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:43:01.507Z
+2017-07-06 15:44:09
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:43:54.266Z
+2017-07-06 15:44:09
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:43:54.266Z
+2017-07-06 15:45:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:45:18.326Z
+2017-07-06 15:45:50
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:45:18.326Z
+2017-07-06 15:47:57
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:47:36.459Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:47:58
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:47:36.459Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:54:50
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:54:47.451Z
+2017-07-06 15:54:51
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:54:47.451Z
+2017-07-06 15:56:01
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:55:39.216Z
+2017-07-06 15:56:02
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T13:55:39.216Z
+2017-07-06 15:57:01
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:56:37.293Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 15:57:02
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T13:56:37.293Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 16:15:52
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T14:15:48.945Z
+2017-07-06 16:15:53
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T14:15:48.945Z
+2017-07-06 16:16:53
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T14:16:45.996Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 16:16:54
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T14:16:45.996Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 16:37:57
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T14:37:53.806Z
+2017-07-06 16:37:58
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T14:37:53.806Z
+2017-07-06 16:38:57
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T14:38:23.661Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 16:38:58
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T14:38:23.661Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 16:42:17
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T14:42:12.620Z
+2017-07-06 16:42:18
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T14:42:12.620Z
+2017-07-06 16:43:16
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T14:43:01.714Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 16:43:17
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T14:43:01.714Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 18:04:41
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T16:04:37.536Z
+2017-07-06 18:04:42
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T16:04:37.536Z
+2017-07-06 18:05:59
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T16:05:24.720Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 18:05:59
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T16:05:24.720Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 18:15:00
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T16:14:56.739Z
+2017-07-06 18:15:01
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-06T16:14:56.739Z
+2017-07-06 18:16:44
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T16:16:13.647Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-06 18:16:44
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-06T16:16:13.647Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 14:22:01
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T12:21:53.718Z
+2017-07-07 14:22:02
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T12:21:53.718Z
+2017-07-07 14:23:01
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T12:22:18.945Z
+2017-07-07 14:23:01
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T12:22:18.945Z
+2017-07-07 14:24:07
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T12:23:57.596Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 14:24:08
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T12:23:57.596Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 14:36:01
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T12:35:54.798Z
+2017-07-07 14:36:02
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T12:35:54.798Z
+2017-07-07 14:37:05
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T12:36:50.457Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 14:37:06
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T12:36:50.457Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 21:52:10
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T19:52:01.211Z
+2017-07-07 21:52:11
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T19:52:01.211Z
+2017-07-07 21:53:35
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T19:53:17.764Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 21:53:36
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T19:53:17.764Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 22:05:46
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T20:05:37.797Z
+2017-07-07 22:05:47
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T20:05:37.797Z
+2017-07-07 22:07:03
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T20:06:42.184Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 22:07:04
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T20:06:42.184Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 22:46:16
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T20:46:07.463Z
+2017-07-07 22:46:17
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T20:46:07.463Z
+2017-07-07 22:47:17
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T20:46:56.050Z
+2017-07-07 22:47:18
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-07T20:46:56.050Z
+2017-07-07 22:50:32
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T20:50:01.751Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-07 22:50:32
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-07T20:50:01.751Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 06:17:38
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T04:17:35.537Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 06:17:38
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T04:17:35.537Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 09:52:03
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T07:52:00.366Z
+2017-07-08 09:52:04
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T07:52:00.366Z
+2017-07-08 09:53:31
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T07:53:28.306Z
+2017-07-08 09:53:31
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T07:53:28.306Z
+2017-07-08 09:53:32
+/StartTransaction	connectorId: 1,
+idTag: 00000001,
+meterStart: 137244,
+timestamp: 2017-07-08T07:53:30.287Z
+2017-07-08 09:53:32
+/StartTransactionResponse	transactionId: 0,
+status: ConcurrentTx,
+expiryDate: 2018-07-03T09:53:32.228+02:00
+2017-07-08 09:53:33
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T07:53:32.302Z,
+value: 137244
+2017-07-08 09:53:39
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T07:53:30.287Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 09:53:40
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T07:53:39.553Z
+2017-07-08 09:53:41
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T07:53:39.553Z
+2017-07-08 09:53:47
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-08T07:53:45.363Z
+2017-07-08 09:53:48
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T07:53:45.363Z
+2017-07-08 09:53:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T07:53:55.515Z,
+value: 137275
+2017-07-08 09:54:07
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T07:54:05.507Z,
+value: 137333
+2017-07-08 09:54:17
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-08T07:54:15.169Z
+2017-07-08 09:54:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T07:54:16.180Z,
+value: 137392
+2017-07-08 09:54:18
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T07:54:15.169Z
+2017-07-08 09:56:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T07:56:15.867Z,
+value: 138097
+2017-07-08 09:58:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T07:58:15.547Z,
+value: 138742
+2017-07-08 10:00:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:00:15.220Z,
+value: 139446
+2017-07-08 10:02:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:02:14.887Z,
+value: 140151
+2017-07-08 10:04:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:04:14.538Z,
+value: 140854
+2017-07-08 10:06:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:06:14.181Z,
+value: 141558
+2017-07-08 10:08:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:08:13.822Z,
+value: 142260
+2017-07-08 10:10:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:10:13.462Z,
+value: 142962
+2017-07-08 10:12:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:12:13.092Z,
+value: 143665
+2017-07-08 10:14:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:14:12.724Z,
+value: 144367
+2017-07-08 10:15:32
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-08T08:15:29.362Z
+2017-07-08 10:15:32
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T08:15:30.350Z
+2017-07-08 10:15:33
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:15:30.350Z
+2017-07-08 10:15:36
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:15:35.556Z,
+value: 144857
+2017-07-08 10:15:47
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:15:45.558Z,
+value: 144857
+2017-07-08 10:15:53
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-08T08:15:51.361Z
+2017-07-08 10:15:54
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:15:51.361Z
+2017-07-08 10:15:57
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:15:56.414Z,
+value: 144867
+2017-07-08 10:16:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:16:05.558Z,
+value: 144925
+2017-07-08 10:16:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:16:16.351Z,
+value: 144984
+2017-07-08 10:16:21
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-08T08:16:20.322Z
+2017-07-08 10:16:22
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:16:20.322Z
+2017-07-08 10:16:32
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-08T08:16:20.322Z
+2017-07-08 10:16:32
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:16:20.322Z
+2017-07-08 10:18:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:18:15.996Z,
+value: 145687
+2017-07-08 10:20:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:20:15.629Z,
+value: 146389
+2017-07-08 10:22:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:22:15.245Z,
+value: 147032
+2017-07-08 10:24:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:24:14.855Z,
+value: 147734
+2017-07-08 10:26:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:26:14.457Z,
+value: 148434
+2017-07-08 10:28:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:28:14.057Z,
+value: 149106
+2017-07-08 10:30:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:30:13.676Z,
+value: 149788
+2017-07-08 10:32:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:32:13.294Z,
+value: 150482
+2017-07-08 10:34:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:34:12.913Z,
+value: 151172
+2017-07-08 10:36:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:36:12.568Z,
+value: 151836
+2017-07-08 10:38:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:38:12.142Z,
+value: 152469
+2017-07-08 10:40:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:40:11.750Z,
+value: 153073
+2017-07-08 10:42:13
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:42:11.369Z,
+value: 153649
+2017-07-08 10:44:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:44:05.679Z,
+value: 154200
+2017-07-08 10:44:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:44:15.982Z,
+value: 154244
+2017-07-08 10:46:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:46:15.576Z,
+value: 154726
+2017-07-08 10:48:03
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T08:47:59.758Z
+2017-07-08 10:48:04
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:47:59.758Z
+2017-07-08 10:48:06
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:48:05.710Z,
+value: 155194
+2017-07-08 10:48:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:48:15.709Z,
+value: 155194
+2017-07-08 10:48:28
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:48:26.159Z,
+value: 155194
+2017-07-08 10:49:03
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T08:48:34.113Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 10:49:03
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Unavailable,
+timestamp: 2017-07-08T08:48:34.113Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 10:50:28
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:50:25.782Z,
+value: 155194
+2017-07-08 10:52:28
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:52:25.391Z,
+value: 155195
+2017-07-08 10:54:27
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:54:25.008Z,
+value: 155195
+2017-07-08 10:56:28
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:56:24.625Z,
+value: 155195
+2017-07-08 10:57:19
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T08:57:16.367Z
+2017-07-08 10:57:19
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:57:16.367Z
+2017-07-08 10:57:29
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-08T08:57:26.196Z
+2017-07-08 10:57:30
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:57:26.196Z
+2017-07-08 10:57:37
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:57:35.804Z,
+value: 155219
+2017-07-08 10:57:48
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:57:45.808Z,
+value: 155269
+2017-07-08 10:57:58
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-08T08:57:55.308Z
+2017-07-08 10:57:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:57:56.327Z,
+value: 155317
+2017-07-08 10:57:59
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:57:55.308Z
+2017-07-08 10:59:09
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T08:59:06.118Z
+2017-07-08 10:59:10
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:59:06.118Z
+2017-07-08 10:59:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:59:15.815Z,
+value: 155627
+2017-07-08 10:59:28
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-08T08:59:24.324Z
+2017-07-08 10:59:28
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:59:26.021Z,
+value: 155627
+2017-07-08 10:59:29
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:59:24.324Z
+2017-07-08 10:59:38
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:59:35.819Z,
+value: 155668
+2017-07-08 10:59:48
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T08:59:45.957Z,
+value: 155714
+2017-07-08 10:59:57
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-08T08:59:53.954Z
+2017-07-08 10:59:58
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T08:59:53.954Z
+2017-07-08 11:01:48
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:01:45.553Z,
+value: 156167
+2017-07-08 11:03:47
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:03:45.150Z,
+value: 156609
+2017-07-08 11:05:47
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:05:44.765Z,
+value: 157020
+2017-07-08 11:07:47
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:07:44.382Z,
+value: 157410
+2017-07-08 11:09:46
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:09:43.998Z,
+value: 157801
+2017-07-08 11:11:46
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:11:43.620Z,
+value: 158191
+2017-07-08 11:13:46
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:13:43.243Z,
+value: 158568
+2017-07-08 11:15:45
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:15:42.851Z,
+value: 158936
+2017-07-08 11:17:44
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:17:42.466Z,
+value: 159295
+2017-07-08 11:19:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:19:05.821Z,
+value: 159559
+2017-07-08 11:19:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:19:16.157Z,
+value: 159583
+2017-07-08 11:21:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:21:15.757Z,
+value: 159836
+2017-07-08 11:23:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:23:15.373Z,
+value: 160082
+2017-07-08 11:25:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:25:14.953Z,
+value: 160295
+2017-07-08 11:27:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:27:14.542Z,
+value: 160487
+2017-07-08 11:29:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:29:14.139Z,
+value: 160652
+2017-07-08 11:31:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:31:13.727Z,
+value: 160806
+2017-07-08 11:33:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:33:13.330Z,
+value: 160944
+2017-07-08 11:35:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:35:12.939Z,
+value: 161077
+2017-07-08 11:37:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:37:12.560Z,
+value: 161196
+2017-07-08 11:38:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:38:55.831Z,
+value: 161297
+2017-07-08 11:39:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:39:06.193Z,
+value: 161305
+2017-07-08 11:41:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:41:05.843Z,
+value: 161389
+2017-07-08 11:43:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:43:05.410Z,
+value: 161481
+2017-07-08 11:45:07
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:45:05.005Z,
+value: 161573
+2017-07-08 11:47:07
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:47:04.607Z,
+value: 161664
+2017-07-08 11:49:07
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:49:04.212Z,
+value: 161704
+2017-07-08 11:51:07
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:51:03.825Z,
+value: 161772
+2017-07-08 11:53:06
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:53:03.423Z,
+value: 161839
+2017-07-08 11:53:41
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-08T09:53:38.497Z
+2017-07-08 11:53:42
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T09:53:38.497Z
+2017-07-08 11:55:06
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:55:03.026Z,
+value: 161863
+2017-07-08 11:57:05
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:57:02.617Z,
+value: 161864
+2017-07-08 11:59:04
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T09:59:02.199Z,
+value: 161864
+2017-07-08 12:01:05
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:01:01.784Z,
+value: 161864
+2017-07-08 12:03:04
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:03:01.386Z,
+value: 161865
+2017-07-08 12:05:03
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:05:00.970Z,
+value: 161865
+2017-07-08 12:07:03
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:07:00.574Z,
+value: 161866
+2017-07-08 12:09:02
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:09:00.204Z,
+value: 161866
+2017-07-08 12:11:03
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:10:59.859Z,
+value: 161866
+2017-07-08 12:13:02
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:12:59.457Z,
+value: 161867
+2017-07-08 12:15:02
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:14:59.086Z,
+value: 161867
+2017-07-08 12:17:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:16:58.703Z,
+value: 161867
+2017-07-08 12:19:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:18:58.308Z,
+value: 161868
+2017-07-08 12:21:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:20:57.938Z,
+value: 161868
+2017-07-08 12:23:00
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-08T10:22:57.535Z,
+value: 161868
+2017-07-08 12:23:28
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEVDisconnected,
+status: Occupied,
+timestamp: 2017-07-08T10:23:25.576Z
+2017-07-08 12:23:29
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-08T10:23:25.576Z
+2017-07-08 12:23:30
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T10:23:28.500Z
+2017-07-08 12:23:30
+/StopTransaction	transactionId: 0,
+timestamp: 2017-07-08T10:23:28.475Z,
+meterStop: 161868
+2017-07-08 12:23:31
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T10:23:28.500Z
+2017-07-08 12:24:32
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T10:24:22.394Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 12:24:33
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T10:24:22.394Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 12:24:40
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T10:24:37.655Z
+2017-07-08 12:24:41
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T10:24:37.655Z
+2017-07-08 12:25:41
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T10:25:23.022Z
+2017-07-08 12:25:41
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T10:25:23.022Z
+2017-07-08 12:26:51
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T10:26:24.823Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 12:26:52
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T10:26:24.823Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 14:13:39
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T12:13:35.251Z
+2017-07-08 14:13:40
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T12:13:35.251Z
+2017-07-08 14:14:39
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T12:14:05.905Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 14:14:40
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T12:14:05.905Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 15:23:48
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T13:23:44.783Z
+2017-07-08 15:23:49
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T13:23:44.783Z
+2017-07-08 15:25:42
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T13:25:12.241Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 15:25:43
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T13:25:12.241Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 18:07:11
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T16:07:07.134Z
+2017-07-08 18:07:12
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T16:07:07.134Z
+2017-07-08 18:08:29
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T16:07:57.679Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 18:08:29
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T16:07:57.679Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 18:35:14
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T16:35:10.039Z
+2017-07-08 18:35:15
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T16:35:10.039Z
+2017-07-08 18:36:24
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T16:36:17.665Z
+2017-07-08 18:36:25
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-08T16:36:17.665Z
+2017-07-08 18:40:56
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T16:40:24.941Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-08 18:40:57
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-08T16:40:24.941Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 09:41:13
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T07:41:07.931Z
+2017-07-09 09:41:14
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T07:41:07.931Z
+2017-07-09 10:23:29
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T08:22:59.456Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 10:23:30
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T08:22:59.456Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 10:50:17
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T08:50:11.783Z
+2017-07-09 10:50:18
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T08:50:11.783Z
+2017-07-09 10:51:18
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T08:50:48.456Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 10:51:19
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T08:50:48.456Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 10:56:54
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T08:56:47.954Z
+2017-07-09 10:56:55
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T08:56:47.954Z
+2017-07-09 10:57:59
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T08:57:30.294Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 10:58:00
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T08:57:30.294Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:00:40
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T09:00:33.956Z
+2017-07-09 11:00:41
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T09:00:33.956Z
+2017-07-09 11:38:43
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T09:38:11.743Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:38:44
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T09:38:11.743Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:39:24
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T09:39:18.131Z
+2017-07-09 11:39:25
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T09:39:18.131Z
+2017-07-09 11:40:18
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-09T09:40:12.422Z
+2017-07-09 11:40:19
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T09:40:12.422Z
+2017-07-09 11:40:19
+/StartTransaction	connectorId: 1,
+idTag: 00000001,
+meterStart: 162021,
+timestamp: 2017-07-09T09:40:14.370Z
+2017-07-09 11:40:19
+/StartTransactionResponse	transactionId: 0,
+status: ConcurrentTx,
+expiryDate: 2018-07-04T11:40:19.950+02:00
+2017-07-09 11:40:20
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:40:16.380Z,
+value: 162021
+2017-07-09 11:40:23
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-09T09:40:14.370Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:40:24
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Unavailable,
+timestamp: 2017-07-09T09:40:14.370Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:42:22
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:42:16.009Z,
+value: 162022
+2017-07-09 11:43:15
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+info: SuspendedEVDisconnected,
+status: Occupied,
+timestamp: 2017-07-09T09:43:09.269Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:43:16
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T09:43:11.896Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:43:17
+/StopTransaction	transactionId: 0,
+timestamp: 2017-07-09T09:43:11.869Z,
+meterStop: 162022
+2017-07-09 11:43:17
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T09:43:11.896Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:43:32
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-09T09:43:25.787Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:43:33
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Unavailable,
+timestamp: 2017-07-09T09:43:25.787Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 11:43:33
+/StartTransaction	connectorId: 1,
+idTag: 00000001,
+meterStart: 162022,
+timestamp: 2017-07-09T09:43:27.765Z
+2017-07-09 11:43:33
+/StartTransactionResponse	transactionId: 0,
+status: ConcurrentTx,
+expiryDate: 2018-07-04T11:43:33.397+02:00
+2017-07-09 11:43:34
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:43:29.780Z,
+value: 162022
+2017-07-09 11:43:50
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-09T09:43:44.271Z
+2017-07-09 11:43:51
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T09:43:44.271Z
+2017-07-09 11:43:56
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-09T09:43:50.059Z
+2017-07-09 11:43:57
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T09:43:50.059Z
+2017-07-09 11:44:09
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:44:03.716Z,
+value: 162073
+2017-07-09 11:44:20
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:44:14.636Z,
+value: 162131
+2017-07-09 11:44:26
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-09T09:44:19.602Z
+2017-07-09 11:44:27
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T09:44:19.602Z
+2017-07-09 11:44:51
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-09T09:44:19.602Z
+2017-07-09 11:44:51
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T09:44:19.602Z
+2017-07-09 11:46:20
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:46:14.260Z,
+value: 162826
+2017-07-09 11:48:19
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:48:13.897Z,
+value: 163521
+2017-07-09 11:50:19
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:50:13.500Z,
+value: 164157
+2017-07-09 11:52:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:52:13.102Z,
+value: 164851
+2017-07-09 11:54:19
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:54:12.689Z,
+value: 165544
+2017-07-09 11:56:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:56:12.292Z,
+value: 166236
+2017-07-09 11:58:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T09:58:11.886Z,
+value: 166927
+2017-07-09 12:00:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:00:11.488Z,
+value: 167617
+2017-07-09 12:02:17
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:02:11.080Z,
+value: 168308
+2017-07-09 12:04:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:04:10.670Z,
+value: 168997
+2017-07-09 12:06:16
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:06:10.260Z,
+value: 169687
+2017-07-09 12:08:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:08:09.897Z,
+value: 170377
+2017-07-09 12:10:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:10:09.407Z,
+value: 171065
+2017-07-09 12:12:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:12:08.970Z,
+value: 171753
+2017-07-09 12:14:15
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:14:08.526Z,
+value: 172444
+2017-07-09 12:16:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:16:08.071Z,
+value: 173135
+2017-07-09 12:18:14
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:18:07.627Z,
+value: 173826
+2017-07-09 12:20:13
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:20:07.181Z,
+value: 174518
+2017-07-09 12:22:13
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:22:06.732Z,
+value: 175211
+2017-07-09 12:24:12
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:24:06.275Z,
+value: 175903
+2017-07-09 12:25:56
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-09T10:25:49.743Z
+2017-07-09 12:25:57
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T10:25:49.743Z
+2017-07-09 12:25:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:25:53.516Z,
+value: 176512
+2017-07-09 12:26:09
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:26:03.515Z,
+value: 176512
+2017-07-09 12:26:14
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-09T10:26:08.048Z
+2017-07-09 12:26:15
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T10:26:08.048Z
+2017-07-09 12:26:18
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:26:13.511Z,
+value: 176529
+2017-07-09 12:26:29
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:26:23.510Z,
+value: 176587
+2017-07-09 12:26:39
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:26:33.718Z,
+value: 176645
+2017-07-09 12:26:44
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: Charging,
+status: Occupied,
+timestamp: 2017-07-09T10:26:37.687Z
+2017-07-09 12:26:45
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T10:26:37.687Z
+2017-07-09 12:28:39
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:28:33.269Z,
+value: 177279
+2017-07-09 12:30:38
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:30:32.820Z,
+value: 177971
+2017-07-09 12:32:38
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:32:32.371Z,
+value: 178663
+2017-07-09 12:34:38
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:34:31.926Z,
+value: 179353
+2017-07-09 12:36:37
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:36:31.471Z,
+value: 180022
+2017-07-09 12:38:37
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:38:31.021Z,
+value: 180659
+2017-07-09 12:40:36
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:40:30.553Z,
+value: 181267
+2017-07-09 12:42:36
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:42:30.089Z,
+value: 181848
+2017-07-09 12:44:29
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:44:23.699Z,
+value: 182399
+2017-07-09 12:44:40
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:44:34.602Z,
+value: 182443
+2017-07-09 12:46:40
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:46:34.146Z,
+value: 182951
+2017-07-09 12:48:39
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:48:33.681Z,
+value: 183420
+2017-07-09 12:50:39
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:50:33.231Z,
+value: 183822
+2017-07-09 12:52:38
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:52:32.779Z,
+value: 184233
+2017-07-09 12:54:39
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:54:32.337Z,
+value: 184615
+2017-07-09 12:56:37
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:56:31.889Z,
+value: 184978
+2017-07-09 12:56:38
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:56:33.547Z,
+value: 185007
+2017-07-09 12:56:50
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:56:43.843Z,
+value: 185035
+2017-07-09 12:58:50
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T10:58:43.395Z,
+value: 185345
+2017-07-09 13:00:49
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:00:42.950Z,
+value: 185676
+2017-07-09 13:02:49
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:02:42.507Z,
+value: 185991
+2017-07-09 13:04:48
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:04:42.061Z,
+value: 186288
+2017-07-09 13:06:48
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:06:41.616Z,
+value: 186574
+2017-07-09 13:08:47
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:08:41.181Z,
+value: 186845
+2017-07-09 13:10:46
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:10:40.721Z,
+value: 187110
+2017-07-09 13:12:46
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:12:40.266Z,
+value: 187369
+2017-07-09 13:14:46
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:14:39.810Z,
+value: 187623
+2017-07-09 13:16:45
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:16:39.351Z,
+value: 187846
+2017-07-09 13:18:45
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:18:38.895Z,
+value: 188038
+2017-07-09 13:20:44
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:20:38.474Z,
+value: 188210
+2017-07-09 13:22:44
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:22:37.980Z,
+value: 188381
+2017-07-09 13:23:49
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:23:43.576Z,
+value: 188467
+2017-07-09 13:24:00
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:23:53.693Z,
+value: 188478
+2017-07-09 13:25:59
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:25:53.252Z,
+value: 188597
+2017-07-09 13:27:59
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:27:52.818Z,
+value: 188726
+2017-07-09 13:29:59
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:29:52.389Z,
+value: 188848
+2017-07-09 13:31:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:31:51.962Z,
+value: 188958
+2017-07-09 13:33:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:33:51.530Z,
+value: 189046
+2017-07-09 13:35:57
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:35:51.109Z,
+value: 189123
+2017-07-09 13:37:57
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:37:50.693Z,
+value: 189184
+2017-07-09 13:39:56
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:39:50.283Z,
+value: 189245
+2017-07-09 13:40:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEV,
+status: Occupied,
+timestamp: 2017-07-09T11:40:42.341Z
+2017-07-09 13:40:50
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T11:40:42.341Z
+2017-07-09 13:41:00
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:40:53.517Z,
+value: 189275
+2017-07-09 13:41:10
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:41:04.009Z,
+value: 189275
+2017-07-09 13:43:09
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:43:03.587Z,
+value: 189275
+2017-07-09 13:45:09
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:45:03.171Z,
+value: 189275
+2017-07-09 13:47:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:47:02.759Z,
+value: 189276
+2017-07-09 13:49:09
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:49:02.345Z,
+value: 189276
+2017-07-09 13:51:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:51:01.928Z,
+value: 189276
+2017-07-09 13:53:08
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:53:01.522Z,
+value: 189277
+2017-07-09 13:55:06
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:55:01.119Z,
+value: 189277
+2017-07-09 13:57:07
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:57:00.715Z,
+value: 189277
+2017-07-09 13:59:06
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T11:59:00.315Z,
+value: 189278
+2017-07-09 14:01:06
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:00:59.920Z,
+value: 189278
+2017-07-09 14:03:05
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:02:59.516Z,
+value: 189279
+2017-07-09 14:05:05
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:04:59.099Z,
+value: 189279
+2017-07-09 14:07:05
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:06:58.718Z,
+value: 189279
+2017-07-09 14:09:05
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:08:58.263Z,
+value: 189280
+2017-07-09 14:11:04
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:10:57.855Z,
+value: 189280
+2017-07-09 14:13:04
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:12:57.456Z,
+value: 189280
+2017-07-09 14:15:03
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:14:57.068Z,
+value: 189281
+2017-07-09 14:17:03
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:16:56.665Z,
+value: 189281
+2017-07-09 14:19:02
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:18:56.265Z,
+value: 189281
+2017-07-09 14:21:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:20:55.852Z,
+value: 189282
+2017-07-09 14:23:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:22:55.441Z,
+value: 189282
+2017-07-09 14:25:02
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:24:55.029Z,
+value: 189282
+2017-07-09 14:27:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:26:54.614Z,
+value: 189283
+2017-07-09 14:29:01
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:28:54.207Z,
+value: 189283
+2017-07-09 14:31:00
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:30:53.807Z,
+value: 189284
+2017-07-09 14:33:00
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:32:53.405Z,
+value: 189284
+2017-07-09 14:34:59
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:34:53.006Z,
+value: 189284
+2017-07-09 14:36:59
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:36:52.621Z,
+value: 189285
+2017-07-09 14:38:59
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:38:52.251Z,
+value: 189285
+2017-07-09 14:40:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:40:51.870Z,
+value: 189285
+2017-07-09 14:42:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:42:51.513Z,
+value: 189286
+2017-07-09 14:44:58
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:44:51.152Z,
+value: 189286
+2017-07-09 14:46:57
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:46:50.799Z,
+value: 189286
+2017-07-09 14:48:57
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:48:50.449Z,
+value: 189287
+2017-07-09 14:50:55
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:50:50.092Z,
+value: 189287
+2017-07-09 14:52:56
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:52:49.776Z,
+value: 189287
+2017-07-09 14:54:55
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:54:49.392Z,
+value: 189288
+2017-07-09 14:56:55
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:56:49.040Z,
+value: 189288
+2017-07-09 14:58:55
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T12:58:48.688Z,
+value: 189288
+2017-07-09 15:00:54
+/MeterValues	connectorId: 1,
+transactionId: 0,
+timestamp: 2017-07-09T13:00:48.332Z,
+value: 189289
+2017-07-09 15:02:44
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: PreCharging,
+status: Occupied,
+timestamp: 2017-07-09T13:02:37.336Z
+2017-07-09 15:02:44
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T13:02:37.336Z
+2017-07-09 15:02:46
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+info: SuspendedEVDisconnected,
+status: Occupied,
+timestamp: 2017-07-09T13:02:41.153Z
+2017-07-09 15:02:47
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Unavailable,
+timestamp: 2017-07-09T13:02:41.153Z
+2017-07-09 15:02:49
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-09T13:02:44.050Z
+2017-07-09 15:02:50
+/StopTransaction	transactionId: 0,
+timestamp: 2017-07-09T13:02:44.022Z,
+meterStop: 189289
+2017-07-09 23:56:34
+/StartTransaction	connectorId: 2,
+idTag: 00000001,
+meterStart: 189348,
+timestamp: 2017-07-09T21:56:30.957Z
+2017-07-09 23:56:34
+/StartTransactionResponse	transactionId: 0,
+status: ConcurrentTx,
+expiryDate: 2018-07-04T23:56:34.354+02:00
+2017-07-09 23:56:34
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+info: SuspendedEVSE,
+status: Occupied,
+timestamp: 2017-07-09T21:56:31.027Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 23:56:35
+/MeterValues	connectorId: 2,
+transactionId: 0,
+timestamp: 2017-07-09T21:56:32.981Z,
+value: 189348
+2017-07-09 23:56:47
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T21:56:43.011Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-09 23:56:47
+/StopTransaction	transactionId: 0,
+timestamp: 2017-07-09T21:56:42.984Z,
+meterStop: 189348
+2017-07-09 23:56:48
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-09T21:56:43.011Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 15:26:14
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T13:26:08.857Z
+2017-07-10 15:26:15
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T13:26:08.857Z
+2017-07-10 15:27:23
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T13:27:14.085Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 15:27:23
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T13:27:14.085Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 17:20:22
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:20:16.549Z
+2017-07-10 17:20:22
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:20:16.549Z
+2017-07-10 17:21:29
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T15:21:08.409Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 17:21:30
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T15:21:08.409Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 17:26:26
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:26:20.090Z
+2017-07-10 17:26:27
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:26:20.090Z
+2017-07-10 17:27:26
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T15:27:19.432Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 17:27:26
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T15:27:19.432Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 17:29:02
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:28:56.858Z
+2017-07-10 17:29:03
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:28:56.858Z
+2017-07-10 17:30:04
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:29:54.024Z
+2017-07-10 17:30:05
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T15:29:54.024Z
+2017-07-10 17:32:15
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T15:31:57.694Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 17:32:16
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T15:31:57.694Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 19:36:35
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T17:36:28.552Z
+2017-07-10 19:36:36
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T17:36:28.552Z
+2017-07-10 19:37:38
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T17:37:11.698Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 19:37:38
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T17:37:11.698Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 20:02:26
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T18:02:20.542Z
+2017-07-10 20:02:27
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T18:02:20.542Z
+2017-07-10 20:03:27
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T18:02:58.182Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 20:03:28
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T18:02:58.182Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 20:32:35
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T18:32:29.306Z
+2017-07-10 20:32:36
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T18:32:29.306Z
+2017-07-10 20:33:37
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T18:33:23.252Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 20:33:37
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T18:33:23.252Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 21:13:30
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T19:13:24.275Z
+2017-07-10 21:13:31
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T19:13:24.275Z
+2017-07-10 21:14:35
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T19:14:07.119Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 21:14:35
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T19:14:07.119Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 23:03:43
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T21:03:37.346Z
+2017-07-10 23:03:44
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T21:03:37.346Z
+2017-07-10 23:04:44
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T21:04:29.869Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 23:04:45
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T21:04:29.869Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 23:04:50
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T21:04:44.157Z
+2017-07-10 23:04:51
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-10T21:04:44.157Z
+2017-07-10 23:05:55
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T21:05:31.777Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-10 23:05:56
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-10T21:05:31.777Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 12:28:53
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T10:28:46.075Z
+2017-07-11 12:28:54
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T10:28:46.075Z
+2017-07-11 12:29:54
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T10:29:42.338Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 12:29:54
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T10:29:42.338Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 12:50:36
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T10:50:28.984Z
+2017-07-11 12:50:36
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T10:50:28.984Z
+2017-07-11 12:51:44
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T10:51:22.088Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 12:51:45
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T10:51:22.088Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 14:38:15
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T12:38:07.840Z
+2017-07-11 14:38:16
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T12:38:07.840Z
+2017-07-11 14:39:55
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T12:39:39.910Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 14:39:56
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T12:39:39.910Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 14:52:06
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T12:51:59.522Z
+2017-07-11 14:52:07
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T12:51:59.522Z
+2017-07-11 14:53:07
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T12:52:33.273Z
+2017-07-11 14:53:08
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T12:52:33.273Z
+2017-07-11 14:54:32
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T12:54:06.070Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 14:54:33
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T12:54:06.070Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 22:11:18
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T20:11:10.292Z
+2017-07-11 22:11:19
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-11T20:11:10.292Z
+2017-07-11 22:12:18
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T20:11:54.725Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-11 22:12:19
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-11T20:11:54.725Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 02:45:35
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:45:26.851Z
+2017-07-12 02:45:36
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:45:26.851Z
+2017-07-12 02:46:35
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:46:21.846Z
+2017-07-12 02:46:36
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:46:21.846Z
+2017-07-12 02:49:41
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T00:49:27.569Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 02:49:42
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T00:49:27.569Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 02:52:21
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:52:12.898Z
+2017-07-12 02:52:21
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:52:12.898Z
+2017-07-12 02:53:22
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T00:53:04.265Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 02:53:22
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T00:53:04.265Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 02:53:43
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:53:35.012Z
+2017-07-12 02:53:43
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:53:35.012Z
+2017-07-12 02:54:43
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:54:12.438Z
+2017-07-12 02:54:43
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T00:54:12.438Z
+2017-07-12 02:56:23
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T00:56:09.993Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 02:56:24
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T00:56:09.993Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:01:08
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:00:59.627Z
+2017-07-12 03:01:09
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:00:59.627Z
+2017-07-12 03:02:08
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:01:50.457Z
+2017-07-12 03:02:09
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:01:50.457Z
+2017-07-12 03:03:13
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:02:52.365Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:03:14
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:02:52.365Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:07:52
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:07:44.112Z
+2017-07-12 03:07:53
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:07:44.112Z
+2017-07-12 03:08:52
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:08:32.883Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:08:53
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:08:32.883Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:13:28
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:13:19.872Z
+2017-07-12 03:13:29
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:13:19.872Z
+2017-07-12 03:14:31
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:14:13.411Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:14:32
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:14:13.411Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:20:00
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:19:51.739Z
+2017-07-12 03:20:01
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:19:51.739Z
+2017-07-12 03:21:42
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:21:26.851Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:21:43
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:21:26.851Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:24:29
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:24:20.948Z
+2017-07-12 03:24:30
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:24:20.948Z
+2017-07-12 03:25:28
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:25:03.562Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:25:29
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:25:03.562Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:26:32
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:26:23.892Z
+2017-07-12 03:26:33
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:26:23.892Z
+2017-07-12 03:27:32
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:27:07.393Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:27:33
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:27:07.393Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:28:22
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:28:14.637Z
+2017-07-12 03:28:23
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:28:14.637Z
+2017-07-12 03:29:23
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:29:11.232Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:29:23
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:29:11.232Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:32:42
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:32:33.992Z
+2017-07-12 03:32:42
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:32:33.992Z
+2017-07-12 03:33:42
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:33:18.913Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:33:43
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:33:18.913Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:34:06
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:33:58.676Z
+2017-07-12 03:34:07
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:33:58.676Z
+2017-07-12 03:35:07
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:34:51.796Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:35:07
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:34:51.796Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:51:04
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:50:56.439Z
+2017-07-12 03:51:05
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:50:56.439Z
+2017-07-12 03:52:05
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:51:53.474Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:52:05
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:51:53.474Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:58:58
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:58:49.829Z
+2017-07-12 03:58:59
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T01:58:49.829Z
+2017-07-12 03:59:58
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:59:37.885Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 03:59:59
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T01:59:37.885Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 04:12:12
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T02:12:04.019Z
+2017-07-12 04:12:13
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T02:12:04.019Z
+2017-07-12 04:13:12
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T02:13:02.865Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 04:13:13
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T02:13:02.865Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 04:23:03
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T02:22:54.803Z
+2017-07-12 04:23:03
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T02:22:54.803Z
+2017-07-12 04:24:03
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T02:23:53.015Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 04:24:04
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T02:23:53.015Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 04:30:33
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T02:30:25.105Z
+2017-07-12 04:30:34
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T02:30:25.105Z
+2017-07-12 04:31:34
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T02:31:06.454Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 04:31:34
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T02:31:06.454Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 05:03:19
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T03:03:11.339Z
+2017-07-12 05:03:20
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T03:03:11.339Z
+2017-07-12 05:04:26
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T03:04:07.868Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 05:04:27
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T03:04:07.868Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 05:31:30
+/StatusNotification	connectorId: 1,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T03:31:21.676Z
+2017-07-12 05:31:31
+/StatusNotification	connectorId: 2,
+errorCode: NoError,
+status: Available,
+timestamp: 2017-07-12T03:31:21.676Z
+2017-07-12 05:32:30
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T03:31:59.875Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 05:32:30
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T03:31:59.875Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 06:29:58
+/StatusNotification	connectorId: 1,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T04:29:55.977Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
+2017-07-12 06:29:59
+/StatusNotification	connectorId: 2,
+errorCode: OtherError,
+status: Available,
+timestamp: 2017-07-12T04:29:55.977Z,
+vendorErrorCode: DoorNotClosed,
+vendorId: com.g2mobility
