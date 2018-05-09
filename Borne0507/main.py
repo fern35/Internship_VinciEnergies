@@ -19,4 +19,4 @@ correct_file = "Example_sorttemp"
 df_sort_corr = pd.read_excel(result_folder+correct_file+".xlsx")
 
 # use the correct excel file to generate the final result.
-df_result = processor.gen_conso(result_folder,title_name,df_sort)
+df_result = processor.gen_conso(result_folder,title_name,df_sort_corr)
