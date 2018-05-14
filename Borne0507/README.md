@@ -1,6 +1,6 @@
 # READ ME
 The source data is 'txt' file.  
-The object is to generate a excel file, one line of which is the forme like this:  
+The object is to generate a excel file, one line of which is the form like this:  
 
 ConnectorID | Start | Stop | Duration | Consumption
 ----------- | ----- | ---- | -------- | -----------
