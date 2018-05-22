@@ -1,0 +1,5 @@
+ArmoireBT:{'arm_Variateur', 'arm_NoLampe'}
+MODELE:set()
+COORDONNEE:{'coor_X', 'coor_Y', 'coor_Projection'}
+EQUIPEMENT:{'eq_EtatExploitation', 'eq_Code', 'eq_DateCreation', 'eq_Type', 'eq_ActeurCreation', 'eq_NombrePhoto'}
+DEPART:set()

@@ -1,0 +1,8 @@
+SUPPORT:{'sup_Code', 'sup_Arceau'}
+PL:{'pl_NoLanterne'}
+APPEILLAGE:{'app_Code'}
+COORDONNEE:{'coor_X', 'coor_Y', 'coor_Projection'}
+EQUIPEMENT:{'eq_EtatExploitation', 'eq_NomVoie', 'eq_Code', 'eq_DateCreation', 'eq_Type', 'eq_ActeurCreation', 'eq_NombrePhoto', 'eq_Commune'}
+LANTERNE:{'lan_Code'}
+CONSOLE:set()
+LAMPE:{'lampe_Code', 'lampe_Puissance'}

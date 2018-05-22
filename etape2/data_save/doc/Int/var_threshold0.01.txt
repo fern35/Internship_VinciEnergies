@@ -1,0 +1,2 @@
+Intervention:{'int_DateIntervention', 'int_Voie', 'int_TypeInt', 'int_ElemDefaut', 'int_Chef', 'int_CodeEqt', 'int_MoyenHumMob', 'int_TypeEqt', 'int_Ville', 'int_SourceEqt', 'int_NoPLimp', 'int_Fin', 'int_CauseDefaut', 'int_Defaut', 'int_Constat', 'int_Solde', 'int_Debut', 'int_Commentaire'}
+PANNE:{'pan_Code', 'pan_Solde', 'pan_reparation', 'pan_UtilisateurdDeclarant', 'pan_CodeEqt', 'pan_SourceEqt', 'pan_Commentaire', 'pan_HeureSignal', 'pan_Astreinte', 'pan_DelaiInt', 'pan_Ville', 'pan_TypeEqt', 'pan_MiseSecurite', 'pan_Defaut', 'pan_Voie', 'pan_DateSignal', 'pan_NoPLimp'}

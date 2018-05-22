@@ -1,0 +1,8 @@
+SUPPORT:{'sup_Vetuste', 'sup_Materiau', 'sup_Type', 'sup_Arceau', 'sup_Code'}
+CONSOLE:{'con_Code'}
+COORDONNEE:{'coor_X', 'coor_Y', 'coor_Projection'}
+LANTERNE:{'lan_Code', 'lan_Hauteur', 'lan_Vetuste', 'lan_Modele'}
+PL:{'pl_Reseau', 'pl_NoLanterne'}
+LAMPE:{'lampe_Code', 'lampe_Puissance', 'lampe_Type'}
+EQUIPEMENT:{'eq_TypeRacine', 'eq_DateCreation', 'eq_Code', 'eq_ActeurCreation', 'eq_Type', 'eq_NomVoie', 'eq_NombrePhoto', 'eq_Commune', 'eq_CodeRacine', 'eq_TypeAmont', 'eq_EtatExploitation', 'eq_CodeAmont'}
+APPEILLAGE:{'app_Puissance', 'app_Code', 'app_TypeSource'}

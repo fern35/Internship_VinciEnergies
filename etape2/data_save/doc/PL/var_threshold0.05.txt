@@ -1,0 +1,8 @@
+SUPPORT:{'sup_Code', 'sup_Arceau'}
+APPEILLAGE:{'app_TypeSource', 'app_Puissance', 'app_Code'}
+EQUIPEMENT:{'eq_DateCreation', 'eq_NomVoie', 'eq_CodeRacine', 'eq_Type', 'eq_Code', 'eq_EtatExploitation', 'eq_ActeurCreation', 'eq_TypeRacine', 'eq_CodeAmont', 'eq_NombrePhoto', 'eq_TypeAmont', 'eq_Commune'}
+LANTERNE:{'lan_Vetuste', 'lan_Code'}
+PL:{'pl_Reseau', 'pl_NoLanterne'}
+LAMPE:{'lampe_Code', 'lampe_Puissance', 'lampe_Type'}
+CONSOLE:set()
+COORDONNEE:{'coor_Y', 'coor_X', 'coor_Projection'}

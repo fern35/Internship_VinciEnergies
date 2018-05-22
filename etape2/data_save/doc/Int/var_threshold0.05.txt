@@ -1,0 +1,2 @@
+PANNE:{'pan_DateSignal', 'pan_MiseSecurite', 'pan_Astreinte', 'pan_TypeEqt', 'pan_Solde', 'pan_Commentaire', 'pan_CodeEqt', 'pan_HeureSignal', 'pan_SourceEqt', 'pan_Code', 'pan_Defaut', 'pan_DelaiInt', 'pan_Ville', 'pan_reparation', 'pan_UtilisateurdDeclarant', 'pan_Voie', 'pan_NoPLimp'}
+Intervention:{'int_Voie', 'int_ElemDefaut', 'int_Ville', 'int_NoPLimp', 'int_Fin', 'int_CodeEqt', 'int_Solde', 'int_TypeInt', 'int_Chef', 'int_Constat', 'int_MoyenHumMob', 'int_Defaut', 'int_Commentaire', 'int_TypeEqt', 'int_SourceEqt', 'int_Debut', 'int_DateIntervention'}
