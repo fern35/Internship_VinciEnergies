@@ -1,5 +1,0 @@
-ArmoireBT:{'arm_NoLampe', 'arm_Variateur'}
-COORDONNEE:{'coor_X', 'coor_Y', 'coor_Projection'}
-MODELE:set()
-DEPART:{'depart_TypeAlimentation'}
-EQUIPEMENT:{'eq_DateCreation', 'eq_Type', 'eq_NomVoie', 'eq_NombrePhoto', 'eq_EtatExploitation', 'eq_Commune', 'eq_Commentaire', 'eq_Code', 'eq_ActeurCreation', 'eq_Vetuste'}
