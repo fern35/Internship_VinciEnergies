@@ -1,2 +1,0 @@
-Intervention:{'int_Debut', 'int_Ville', 'int_TypeEqt', 'int_Voie', 'int_Constat', 'int_Fin', 'int_DateIntervention', 'int_CodeEqt', 'int_MoyenHumMob', 'int_Solde', 'int_Chef'}
-PANNE:{'pan_Defaut', 'pan_TypeEqt', 'pan_Solde', 'pan_CodeEqt', 'pan_HeureSignal', 'pan_DateSignal', 'pan_Ville', 'pan_Voie', 'pan_UtilisateurdDeclarant', 'pan_Code'}
