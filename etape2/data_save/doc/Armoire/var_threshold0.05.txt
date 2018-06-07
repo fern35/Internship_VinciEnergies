@@ -1,5 +1,0 @@
-EQUIPEMENT:{'eq_Commune', 'eq_DateCreation', 'eq_NomVoie', 'eq_Type', 'eq_Code', 'eq_EtatExploitation', 'eq_NombrePhoto', 'eq_ActeurCreation'}
-MODELE:set()
-ArmoireBT:{'arm_Variateur', 'arm_NoLampe'}
-COORDONNEE:{'coor_Y', 'coor_X', 'coor_Projection'}
-DEPART:{'depart_TypeAlimentation'}
