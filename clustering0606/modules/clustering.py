@@ -72,10 +72,18 @@ class Cluster(object):
     def num_encode(self, data, var, proper_range=None):
         new_data = data.copy()
         new_data[var+'_NA'] = new_data[var].isnull().apply(lambda x: x*1)
-        print(new_data[var+'_NA'].head())
         new_data = new_data.fillna(value={var: 0})
         if proper_range is not None:
-            new_data[var] = new_data[var].clip(proper_range[0], proper_range[1])
+            new_data[var+'_clip'] = new_data[var].clip(proper_range[0], proper_range[1])
         return new_data
+
+    def add_Int(self, data_row, data_Int):
+        new_data = data_row.copy()
+        data_pick = data_Int.loc[(data_Int['pan_CodeEqt'] == new_data['eq_Code']) & (data_Int['region'] == new_data['region'])]
+        new_data[]
+        if data_pick.empty:
+            print('data_Pick======================')
+            print(type(data_pick))
+            print(data_pick)
 
 
